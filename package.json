@@ -1,12 +1,12 @@
 {
-  "name": "ejs-challenge",
-  "version": "1.0.0",
-  "description": "",
+  "name": "Anya Proyect",
+  "version": "0.1.0",
+  "description": "Desarrollo blog Anya",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Daniel Muñoz - Robert Machado",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
